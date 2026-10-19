@@ -1,0 +1,1 @@
+import{r as e,t}from"./react.BJumA7Ee.js";var n=e(t(),1),r=!1,i=new Set;function a(e){return i.add(e),()=>{i.delete(e)}}function o(){r||(r=!0,i.forEach(e=>e()))}function s(e=!1){return(0,n.useSyncExternalStore)(a,()=>e||r,()=>e)}export{s as n,o as t};

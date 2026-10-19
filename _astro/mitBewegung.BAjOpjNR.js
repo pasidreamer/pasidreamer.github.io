@@ -1,0 +1,1 @@
+import{i as e}from"./MotionConfigContext.B9mEXm_Q.js";import{t}from"./MotionConfig.DEw11nG8.js";var n=e();function r(e){function r(r){return(0,n.jsx)(t,{reducedMotion:`user`,children:(0,n.jsx)(e,{...r})})}return r.displayName=`Insel(${e.displayName??e.name})`,r}export{r as t};

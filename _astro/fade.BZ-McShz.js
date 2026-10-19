@@ -1,0 +1,1 @@
+var e=[0,.028,.104,.216,.352,.5,.648,.784,.896,.972,1],t=t=>e.map((e,n)=>`rgb(${t} / ${e}) ${n*10}%`).join(`, `),n=e=>`linear-gradient(to ${e}, ${t(`14 17 22`)})`,r=`linear-gradient(to bottom, ${t(`0 0 0`)})`;export{n,r as t};

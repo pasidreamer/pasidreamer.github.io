@@ -1,0 +1,1 @@
+var e=(e,t)=>t||!e.startsWith(`#`)?e:`/${e}`;export{e as t};
