@@ -4,6 +4,7 @@
 
 - Heutige Paketseite: https://pasidreamer.github.io/pakete.html
 - Prototyp der Paketseite: https://pasidreamer.github.io/pakete-prototyp.html
+- Prototyp 2 (Leistungen & Preise als Digitalpartner): https://pasidreamer.github.io/pakete-prototyp-2.html
 - Erklärungsseite Kundenmanagement: https://pasidreamer.github.io/kundenmanagement.html
 
-Das Kontaktformular öffnet hier nur das Mailprogramm. Erzeugt aus dem privaten Projekt (Stand 19.10.2026).
+Das Kontaktformular öffnet hier nur das Mailprogramm. Erzeugt aus dem privaten Projekt (Stand 20.10.2026).
