@@ -1,1 +1,0 @@
-import{t as e}from"./mitBewegung.BAjOpjNR.js";import{n as t}from"./FaqSection.D7yGmGev.js";var n=e(t);export{n as default};
