@@ -1,1 +1,0 @@
-import{r as e,t}from"./react.BJumA7Ee.js";var n=e(t(),1);function r(e){return(0,n.useSyncExternalStore)(t=>{let n=window.matchMedia(e);return n.addEventListener(`change`,t),()=>n.removeEventListener(`change`,t)},()=>window.matchMedia(e).matches,()=>!1)}export{r as t};
