@@ -6,4 +6,4 @@
 - Leistungen & Preise: https://pasidreamer.github.io/leistungen.html
 - Über mich: https://pasidreamer.github.io/ueber-mich.html
 
-Das Kontaktformular öffnet hier nur das Mailprogramm. Erzeugt aus dem privaten Projekt (Stand 25.10.2026).
+Das Kontaktformular öffnet hier nur das Mailprogramm. Erzeugt aus dem privaten Projekt (Stand 26.10.2026).
