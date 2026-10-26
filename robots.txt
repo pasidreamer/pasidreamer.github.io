@@ -1,3 +1,3 @@
-# Vorschau – nicht in Suchmaschinen aufnehmen
+# Vorschau – Seiten tragen noindex, damit sie nicht in Suchmaschinen erscheinen
 User-agent: *
-Disallow: /
+Allow: /
